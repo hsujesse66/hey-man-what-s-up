@@ -1,2 +1,7 @@
 # hey-man-what-s-up
-new number in join
+
+
+Hi! Humans!
+Jesse here!i like python and food.
+
+
